@@ -15,7 +15,7 @@
 - 🌱 Currently learning JavaScript and Backend Development
 - 💻 Interested in Frontend and Full-Stack Web Development
 - 🚀 Building real-world projects to improve my skills
-- 🎯 Goal: Become a Professional Software Engineer
+- 🎯 Goal: Become a Professional Frontend Devloper
 - 🤝 Open to learning, collaboration, and connecting with developers
 
 ---
